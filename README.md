@@ -72,18 +72,29 @@
 *Automation build.*
 
 * [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
-* [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
-* [Bazel](http://www.bazel.io/) - Google's build system.
-* [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
-* [Gradle](http://gradle.org/) - Another build automation system.
-* [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
+* [Apache Maven](https://maven.apache.org/) - Build automation tool mainly for Java.
+* [Bazel](https://www.bazel.io/) - Google's build system.
 * [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
+* Cabal.
+* Cargo.
+* CMake.
+* Conan.
+* [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
+* [Gradle](https://gradle.org/) - Another build automation system.
+* Knife.
+* Lein.
+* Mix.
+* Ninja.
+* Pip.
+* [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
+* SBT.
+* Scons.
 
 ## Backups
 
 *Backup software.*
 
-- There is no good backup software. Build your own.
+- There is no good backup software. Build your own with tar, gpg, rsync &| zfs send/receive.
 
 ## Build and software organization tools
 
